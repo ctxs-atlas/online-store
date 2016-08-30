@@ -1,7 +1,7 @@
 name: online-store-app
 namespace: com.acme-corp.stylebooks
 version: "1.0"
-display-name: "Online Store"
+display-name: "Online Store 2"
 description: |
   NetScaler configuration for the online store component
 schema-version: "1.0"
