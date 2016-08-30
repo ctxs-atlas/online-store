@@ -22,7 +22,7 @@ parameters:
   - 
     name: name
     label: "Name"
-    description: "Give this configuration a name"
+    description: "Give the configuration a name"
     type: string
     required: true
     key: true
